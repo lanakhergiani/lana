@@ -1,0 +1,90 @@
+#box {
+    margin: auto;
+    width: 30%;
+    background-color: white;
+    border-radius: 10px;
+}
+body{
+    background-color:cadetblue ;
+}
+#photo {
+    text-align: center;
+}
+
+#blu{
+    background-color: #456abd;
+    color: white;
+    border-radius: 50%;
+}
+#price{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#text{
+    padding: 5px 20px;
+}
+#size span{
+    padding: 5px;
+    margin: 5px;
+
+}
+.colors{
+    display: flex;
+    width: 25%;
+    justify-content: space-between;
+    align-items: center;
+    }
+
+
+.colors #white{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #d3d3d3 ;
+}
+.colors #blue{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #456abd ;
+    border: solid 3px #809cdd;
+}
+.colors #orange{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #eaa522 ;
+}
+.smallbox #buy{
+    background-color:#456abd;
+    color: white;
+    text-decoration: none;
+    padding: 10px 30px;
+    border: solid 3px #456abd;
+    margin-right: 20px;
+    
+}
+.smallbox #add{
+    text-decoration: none;
+    padding: 10px 30px;
+    color: #456abd;
+    border: 3px solid #456abd;
+    
+}
+.smallbox{
+    margin: 30px 0;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+

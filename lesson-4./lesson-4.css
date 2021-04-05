@@ -1,0 +1,54 @@
+.wrapper{
+    border: dotted black 1px;
+    height: 150px;
+    width: 250px;
+    margin: auto;
+}
+.battery{
+    width: 70%;
+    margin: auto;
+    
+    
+   
+}
+#body1, #body2{
+    width: 90%;
+    height: 35px;
+    border: solid black 2px;
+    display: inline-block;
+    
+}
+.head{
+    width: 7%;
+    height: 15px;
+    background-color: black;
+    display: inline-block;
+    margin-block-end: 12px;
+    margin-left: -6px;
+}
+#small{
+    width: 10%;
+    background-color: red;
+    height: 35px;
+}
+#body1:hover #small{
+    width: 25%;
+    background-color: orange;
+    height: 35px;
+    transition-duration: 1s;
+}
+#smaller{
+    width: 25%;
+    background-color: orange;
+    height: 35px;
+}
+#body2:hover #smaller{
+    width: 100%;
+    background-color: green;
+    height: 35px;
+    transition-delay: 2s ;
+    transition-duration: 2s;
+}
+#box{
+padding-top: 30px;
+}

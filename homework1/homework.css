@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+}
+#box{
+    background-image: url(7-79864_roblox-blur-background.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+    height: 600px;
+}
+nav{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+    margin: auto;
+    padding: 10px 0;
+}
+#menu{
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+}
+#menu li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#button{
+    border: 2px solid white;
+    padding: 5px 10px;
+    border-radius: 15px;
+}
+#text-box{
+    color: white;
+    width: 60%;
+    margin: auto;
+    padding: 50px 0;
+}
+#text-box p{
+    width: 40%;
+    margin-bottom: 40px ;
+}
+#sign-up{
+    background-color: #67b8f4;
+    padding: 10px 15px;
+    border-radius: 15px;
+}

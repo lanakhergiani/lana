@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    color: green;
+}
+p{
+text-transform: capitalize;
+text-align: center;
+
+}
+#line{
+    text-decoration: underline green dotted 6px ;
+}
+#line1{
+    text-decoration-line: line-through;
+    text-decoration-color: red;
+
+}
+#line2{
+    color: blue;
+    text-decoration: blue overline;
+}
+
+
+
+
+
