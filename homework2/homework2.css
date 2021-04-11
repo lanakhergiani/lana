@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+
+}
+*{
+    box-sizing: border-box;
+}
+header{
+    padding:10px 0px; 
+    margin: auto;
+    width: 50%;
+    background-image: url(http://www.tajarabia.com/images/image-slider-1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+ h1{
+    text-align: end;
+    font-size: 50px;
+    color: blue;
+    background-color: #ffffff73;
+    margin: 5px 0;
+}
+.text{
+    margin: 0 15px;
+}

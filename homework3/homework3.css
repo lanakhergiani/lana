@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+.photo{
+background-image: url(https://camo.githubusercontent.com/9447878bd3074932061fbe57e12e82b3ae1515e2b292ba7e873b75ef11b2b228/68747470733a2f2f702e62696773746f636b70686f746f2e636f6d2f47654676516b4262534c614d64704b5846315a765f62696773746f636b2d41657269616c2d566965772d4f662d426c75652d4c616b65732d416e642d2d3232373239313539362e6a7067);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+.color{
+    background-color: #04011994;
+}
+.contact{
+    text-align: end;
+    color: white;
+}
+h1{
+    color: white;
+}
+.menu{
+    padding: 0;
+}
+.menu li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 5px;
+
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+}
+.text{
+   text-align: center; 
+    
+}
+h2{
+    text-align: center;
+    padding: 50px 0;
+    color: white;
+    font-size: 40px;
+    margin-top: 80px;
+}
